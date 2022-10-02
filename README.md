@@ -1,5 +1,5 @@
 **If you are a LinkedIn user, have you ever wondered about the segments of people in your network?**<br />
-**As a user on LinkedIn I was curious about the statistics of people in my network which led me to try to anlyse my LinkedIn network using python**.<br /><br />
+**As a user on LinkedIn I was curious about the statistics of people in my network which led me to try to analyse my LinkedIn network using python**.<br /><br />
 # Data
 First we need data, you can request and download your data directly from LinkedIn :<br /><br />
 ![image](https://user-images.githubusercontent.com/113764800/193478229-ae598457-b147-4bdf-9af1-104df7c2d36c.png)
